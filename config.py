@@ -20,7 +20,7 @@ class Rkn_Botz(object):
     # Rkn client config (required)
     API_ID = os.environ.get("API_ID", "24579269")
     API_HASH = os.environ.get("API_HASH", "99dff6c471774c2be6ff3d4623a6c0c0")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8727362639:AAEJ25L9xFIXZqKIzHTtjas0sim5vlGdb4M")
 
     # Start pic (default image link)
     RKN_PIC = os.environ.get("RKN_PIC", "https://telegra.ph/Luxebotupdate-03-12")
@@ -66,6 +66,7 @@ class Rkn_Botz(object):
 
 
 # ⚠️ Please do not remove this credit!
+
 
 
 
